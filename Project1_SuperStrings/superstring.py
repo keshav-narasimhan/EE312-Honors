@@ -1,3 +1,6 @@
+# python file to generate test cases for project
+# credits to Afnan
+
 import random
 f = open('strings.txt', 'w') #file for strings
 f2 = open('superstrings.txt','w') #file for superstrings
