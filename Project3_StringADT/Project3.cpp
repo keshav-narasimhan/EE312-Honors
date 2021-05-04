@@ -1,7 +1,7 @@
 // String ADT <Project3.cpp>
 // EE 312 Project 3 submission by
 // Keshav Narasimhan
-// kn9558
+// ______
 // Slip days used: 0
 // Spring 2021
 // Copy and paste this file at the top of all your submitted source code files.  Do not turn this in by itself.
